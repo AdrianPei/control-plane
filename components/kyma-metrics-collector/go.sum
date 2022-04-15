@@ -278,8 +278,8 @@ github.com/gardener/gardener v1.40.2/go.mod h1:lIao8ImIqVztkLy7soQRZ/73+mvndN0XG
 github.com/gardener/gardener v1.43.0 h1:cVHdPYh7j+qwor150DTTMuvs3SN0PWDpI4eP+lw8MHM=
 github.com/gardener/gardener v1.43.0/go.mod h1:L3g3pYdqhE3KoHzEIW7I3DOv1TUQl8VIEW1U+QOEmlA=
 github.com/gardener/gardener-extension-networking-calico v1.19.4/go.mod h1:i62aQOUURkhQrap9cNK1jNkZoxCb2o6iDeUYaoSt25g=
-github.com/gardener/gardener-extension-provider-aws v1.34.3 h1:zW4usX529mpq6gBxsryrBKKoXZg89zA09Pj8XmFP4vQ=
-github.com/gardener/gardener-extension-provider-aws v1.34.3/go.mod h1:0YDtrNCSRBDqJLMuzE3DqD2JGgDpiD3p/t8U/b3rttk=
+github.com/gardener/gardener-extension-provider-aws v1.34.4 h1:JwEDHSBELxs1JOVOIlTCsjQ6cS8l8nlGVkFN3cWSwpE=
+github.com/gardener/gardener-extension-provider-aws v1.34.4/go.mod h1:0YDtrNCSRBDqJLMuzE3DqD2JGgDpiD3p/t8U/b3rttk=
 github.com/gardener/gardener-extension-provider-azure v1.26.2 h1:w6l75AwZoX5xsmr6n5rszt4BcJkm4sLNhBcWcWx4s60=
 github.com/gardener/gardener-extension-provider-azure v1.26.2/go.mod h1:z+lv3weFbJ2CR+SAvII/mCj6Fwpm97capbWNMz1QJKY=
 github.com/gardener/gardener-extension-provider-gcp v1.21.3 h1:0OCQ9hf4V+47yiDtWHVtAi2AwfKZ5ZCDApsk4Uamtsw=
