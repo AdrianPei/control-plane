@@ -3,8 +3,8 @@ module github.com/kyma-project/control-plane/components/kyma-metrics-collector
 go 1.17
 
 require (
-	github.com/gardener/gardener v1.43.0
-	github.com/gardener/gardener-extension-provider-aws v1.34.3
+	github.com/gardener/gardener v1.44.0
+	github.com/gardener/gardener-extension-provider-aws v1.35.0
 	github.com/gardener/gardener-extension-provider-azure v1.26.2
 	github.com/gardener/gardener-extension-provider-gcp v1.21.3
 	github.com/google/uuid v1.3.0
@@ -38,7 +38,6 @@ require (
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.32.1 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
