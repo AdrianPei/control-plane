@@ -3,7 +3,7 @@ module github.com/kyma-project/control-plane/components/kyma-metrics-collector
 go 1.17
 
 require (
-	github.com/gardener/gardener v1.43.0
+	github.com/gardener/gardener v1.47.0
 	github.com/gardener/gardener-extension-provider-aws v1.34.3
 	github.com/gardener/gardener-extension-provider-azure v1.26.2
 	github.com/gardener/gardener-extension-provider-gcp v1.21.3
@@ -30,7 +30,7 @@ require (
 	github.com/go-logr/logr v1.2.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/google/go-cmp v0.5.6 // indirect
+	github.com/google/go-cmp v0.5.7 // indirect
 	github.com/google/gofuzz v1.1.0 // indirect
 	github.com/googleapis/gnostic v0.5.5 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
